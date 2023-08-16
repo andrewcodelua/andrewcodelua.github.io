@@ -20,6 +20,6 @@ print(math.random(0, 100))
 ###### Print text with random numbers
 What if you want to print... uhhh, Text with random numbers!
 ```lua
-print("Hi world, I wanted to give you a number: " math.random(0, 100))
+print("Hi world, I wanted to give you a number: "...math.random(0, 100))
 ```
 [========]
